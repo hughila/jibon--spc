@@ -355,7 +355,6 @@ font-weight: 600;
   grid-template-columns: 1fr 1fr 1fr;
   gap:2rem;
 }
-
   /* REPEATABLE PATTERNS */
   :root{
     --green:#7d9a68;
